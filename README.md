@@ -1,4 +1,4 @@
-<align=centre>#Hello My Name is Josh!
+<align:centre>#Hello My Name is Josh!
 ###
 
 ## Used Languages and Tools:
