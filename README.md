@@ -3,11 +3,11 @@
 <h1 align="center">👋 Hey, I'm Josh!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
 
-- 🔭 I’m currently working on **Python Physics Simulations**
+ 🔭 I’m currently working on **Python Physics Simulations**
 
-- 🌱 I’m currently learning **Linux, 3D modeling**
+ 🌱 I’m currently learning **Linux, 3D modeling**
 
-- 👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
+ 👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
