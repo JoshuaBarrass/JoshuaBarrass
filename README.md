@@ -9,13 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" /></a>
 <a href="https://discordapp.com/users/337286055315243009/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Nax%239446-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nax#9446" /></a>
 </p>
+<img src="https://img.shields.io/badge/Gmail-joshuabarrass010203@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="40"/> </a>
