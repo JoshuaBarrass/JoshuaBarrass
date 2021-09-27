@@ -1,7 +1,7 @@
 <div align="center" class="profile" style="background-color:blue; font-family: verdana;">
 
 <h1 align="center">👋 Hey, I'm Josh!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
 
 - 🔭 I’m currently working on **Python Physics Simulations**
 
@@ -9,15 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" /></a>
 <a href="https://discordapp.com/users/337286055315243009/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Nax%239446-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nax#9446" /></a>
 <a href="mailto: joshuabarrass010203@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-joshuabarrass010203@gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="40"/> </a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="40"/> </a> 
