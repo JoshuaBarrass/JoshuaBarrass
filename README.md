@@ -1,3 +1,5 @@
+<div class="profile">
+
 <h1 align="center">👋 Hey, I'm Josh!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
 
@@ -33,3 +35,5 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabarrass&show_icons=true&locale=en" alt="joshuabarrass" /></p>
+
+</div>
