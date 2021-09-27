@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nax#9446" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Nax%239446-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nax#9446" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
