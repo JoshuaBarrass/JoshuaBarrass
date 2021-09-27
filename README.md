@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" height="30" width="40" /></a>
+<a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" /></a>
 <a href="https://discord.gg/Nax#9446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nax#9446" height="30" width="40" /></a>
 </p>
 
