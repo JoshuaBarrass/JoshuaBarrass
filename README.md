@@ -35,6 +35,6 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="40"/> </a> </p>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaBarrass&show_icons=true&theme=radical)
-![Josh's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBarrass&theme=radical)
+![Josh's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaBarrass&theme=radical)
 
 </div>
