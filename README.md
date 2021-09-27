@@ -15,8 +15,7 @@
 <a href="https://discordapp.com/users/337286055315243009/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Nax%239446-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nax#9446" /></a>
 <a href="mailto: joshuabarrass010203@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-joshuabarrass010203@gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
-<img src="https://img.shields.io/badge/Gmail-joshuabarrass010203@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="40"/> </a> 
