@@ -1,4 +1,4 @@
-<div class="profile" style="background-color:blue; font-family: verdana;">
+<div align="center" class="profile" style="background-color:blue; font-family: verdana;">
 
 <h1 align="center">👋 Hey, I'm Josh!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
