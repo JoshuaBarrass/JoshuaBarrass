@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Josh!</h1>
+<h1 align="center">👋 Hey, I'm Josh!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
 
 - 🔭 I’m currently working on **Python Physics Simulations**
