@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on **Python Physics Simulations**
 
- 🌱 I’m currently learning **ract, web Development**
+ 🌱 I’m currently learning **react, web Development**
 
  👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
 
