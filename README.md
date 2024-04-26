@@ -7,13 +7,13 @@
 
  🌱 I’m currently learning **react, web Development**
 
- 👨‍💻 All of my projects are available at [http://naxdesignz.portfoliobox.net/](http://naxdesignz.portfoliobox.net/)
+ 👨‍💻 All of my projects are available at [JBarrass.dev/](http://www.jbarrass.dev/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/naxuhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Naxuhh?color=%231DA1F2&label=Follow%20Me&logo=twitter&style=for-the-badge" alt="naxuhh" /></a>
 <a href="https://discordapp.com/users/337286055315243009/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Naxuhh-5865F2?style=for-the-badge&logo=discord" alt="Naxuhh" /></a>
-<a href="mailto: joshuabarrass010203@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-joshuabarrass010203@gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="mailto: joshua.barrass@jbarrass.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-joshua.barrass@jbarrass.dev-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
   
 <h3 align="center">Languages and Tools:</h3>
