@@ -24,9 +24,9 @@
   C++  
   C#  
   Python  
-  Java
-  JavaScript
-  TypeScript
+  Java  
+  JavaScript  
+  TypeScript  
 
 ### Web Development  
   HTML5  
@@ -34,19 +34,19 @@
   Bootstrap  
   Node.js  
   Flask  
-  Django
-  Tailwind
-  Nextjs
-  React
-  Express
+  Django  
+  Tailwind  
+  Nextjs  
+  React  
+  Express  
 
 ### Databases  
   Microsoft SQL Server  
   MySQL  
   SQLite  
-  MongoDB
-  AWS DynamoDB
-  PostgreSQL
+  MongoDB  
+  AWS DynamoDB  
+  PostgreSQL  
 
 ### Tools & Platforms  
   Blender  
