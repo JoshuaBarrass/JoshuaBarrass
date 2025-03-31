@@ -21,34 +21,34 @@
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages  
-- C++  
-- C#  
-- Python  
-- JavaScript  
+  C++  
+  C#  
+  Python  
+  JavaScript  
 
 ### Web Development  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- Node.js  
-- Flask  
+  HTML5  
+  CSS3  
+  Bootstrap  
+  Node.js  
+  Flask  
 
 ### Databases  
-- Microsoft SQL Server  
-- MySQL  
-- SQLite  
+  Microsoft SQL Server  
+  MySQL  
+  SQLite  
 
 ### Frameworks & Libraries  
-- Express.js  
-- OpenCV  
-- React.js  
+  Express.js  
+  OpenCV  
+  React.js  
 
 ### Tools & Platforms  
-- Blender  
-- Adobe Photoshop  
-- Unity  
-- AWS  
-- Git  
+  Blender  
+  Adobe Photoshop  
+  Unity  
+  AWS  
+  Git  
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaBarrass&show_icons=true&theme=radical)
 ![Josh's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaBarrass&theme=radical)
