@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning **React, Web Development, openAI, Arduino**
 
- 👨‍💻 All of my projects are available at [JBarrass.dev/](http://www.jbarrass.dev/)
+ 👨‍💻 All of my projects are available at [JBarrass.dev/](http://jbarrass.dev/)
 
  👨‍💻 My Most Recent Project is [EasyReports.xyz/](http://www.EasyReports.xyz/)
 
