@@ -9,7 +9,7 @@
 
  👨‍💻 All of my projects are available at [JBarrass.dev/](http://jbarrass.dev/)
 
- 👨‍💻 My Most Recent Project is [EasyReports.xyz/](http://www.EasyReports.xyz/)
+ 👨‍💻 My Most Recent Project is [Inverus.co/](http://www.Inverus.co/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
