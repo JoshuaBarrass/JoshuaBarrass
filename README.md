@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on **AI Improved Web Apps** & **Serverless Hosting For Process Heavy Systems**
 
- 🌱 I’m currently learning **React, Web Development, openAI, Arduino**
+ 🌱 I’m currently learning **AWS ECS, CS2 Demo Parsing**
 
  👨‍💻 All of my projects are available at [JBarrass.dev/](http://jbarrass.dev/)
 
