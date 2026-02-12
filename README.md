@@ -3,13 +3,13 @@
 <h1 align="center">👋 Hey, I'm Josh!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshuabarrass&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshuabarrass" /> </p>
 
- 🔭 I’m currently working on **AI Improved Web Apps** & **Embedded Development**
+ 🔭 I’m currently working on **AI Improved Web Apps** & **Serverless Hosting For Process Heavy Systems**
 
  🌱 I’m currently learning **React, Web Development, openAI, Arduino**
 
  👨‍💻 All of my projects are available at [JBarrass.dev/](http://jbarrass.dev/)
 
- 👨‍💻 My Most Recent Project is [Inverus.co/](http://www.Inverus.co/)
+ 👨‍💻 My Most Recent Project is [Breakdown.GG/](http://Breakdown.GG/) Currently at 88k users/month
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
